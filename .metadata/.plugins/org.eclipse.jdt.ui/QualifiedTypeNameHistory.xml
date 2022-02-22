@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="br.ufal.aracomp.cosmos.emprestimo.impl.ComponentFactory"/>
+<fullyQualifiedTypeName name="br.ufal.aracomp.cosmos.emprestimo.spec.prov.IEmprestimoOps"/>
+<fullyQualifiedTypeName name="br.ufal.aracomp.cosmos.emprestimo.spec.dt.UsuarioDT"/>
+<fullyQualifiedTypeName name="br.ufal.aracomp.cosmos.emprestimo.spec.req.ILimiteReq"/>
+<fullyQualifiedTypeName name="br.ufal.aracomp.cosmos.limite.impl.ComponentFactory"/>
+<fullyQualifiedTypeName name="br.ufal.aracomp.cosmos.limite.spec.prov.ILimiteOps"/>
+<fullyQualifiedTypeName name="br.ufal.cosmos.conectorSimples.ConectorSimples"/>
+<fullyQualifiedTypeName name="java.rmi.server.UnicastRemoteObject"/>
+<fullyQualifiedTypeName name="java.rmi.registry.LocateRegistry"/>
+<fullyQualifiedTypeName name="java.rmi.RemoteException"/>
+<fullyQualifiedTypeName name="java.rmi.Naming"/>
+<fullyQualifiedTypeName name="java.net.MalformedURLException"/>
+<fullyQualifiedTypeName name="java.rmi.NotBoundException"/>
+<fullyQualifiedTypeName name="br.ufal.aracomp.cosmos.limite.spec.dt.ClienteDT"/>
+<fullyQualifiedTypeName name="br.ufal.aracomp.sft.connRMI.ConnCli"/>
+<fullyQualifiedTypeName name="java.rmi.registry.Registry"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+</qualifiedTypeNameHistroy>
